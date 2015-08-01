@@ -1,20 +1,19 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      
 
 # Permalinks
-permalink:        pretty
+permalink:        	pretty
 relative_permalinks: true
 
 # Setup
-title:            Ciaran Schutte
+title:            Ciar&#225;n Sch&#252;tte
 tagline:          ''
-description:      'My stdout'
+description:      'stdout'
 url:              http://ciaranschutte.com
 baseurl:          /
 
 
 
-paginate:         5
 
 
